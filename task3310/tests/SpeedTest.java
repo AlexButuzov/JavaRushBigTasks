@@ -30,15 +30,16 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
+import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
 
 public class SpeedTest extends Assert {
     public long getTimeForGettingIds(Shortener shortener, Set<String> strings, Set<Long> ids) {
 
-        Long startTime = System.nanoTime()/ 1000;
+        Long startTime = new Date().getTime();
         strings.forEach(str -> ids.add(shortener.getId(str)));
-        Long endTime = System.nanoTime()/ 1000;
+        Long endTime = new Date().getTime();
         return endTime - startTime;
     }
 
@@ -63,10 +64,10 @@ public class SpeedTest extends Assert {
 
         Set<Long> idsBi = new HashSet<>();
         Long timeWhithHashBiMapIds = getTimeForGettingIds(shortener2, origStrings,idsBi);
-        Long timeWhithHashBiMapStrings = getTimeForGettingStrings(shortener1,idsBi,new HashSet<String>());
+        Long timeWhithHashBiMapStrings = getTimeForGettingStrings(shortener2,idsBi,new HashSet<String>());
 
 
         Assert.assertTrue(timeWhithHashMapIds > timeWhithHashBiMapIds);
-        Assert.assertNotEquals(timeWhithHashMapStrings, timeWhithHashBiMapStrings,30);
+        Assert.assertEquals(timeWhithHashMapStrings, timeWhithHashBiMapStrings,30);
     }
 }
