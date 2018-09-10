@@ -52,6 +52,7 @@ public class SpeedTest extends Assert {
 
     @Test
     public void testHashMapStorage() {
+        ;
         Shortener shortener1 = new Shortener(new HashMapStorageStrategy());
         Shortener shortener2 = new Shortener(new HashBiMapStorageStrategy());
         Set<String> origStrings = new HashSet<>();
