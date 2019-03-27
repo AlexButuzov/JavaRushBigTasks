@@ -1,4 +1,4 @@
-package KillUfoGame;
+package KillUfoGameOnConsol;
 
 
 public class Canvas {

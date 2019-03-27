@@ -1,4 +1,4 @@
-package KillUfoGame;
+package KillUfoGameOnConsol;
 
 /**
  * Базовый класс для всех объектов игры.

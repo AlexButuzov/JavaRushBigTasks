@@ -1,4 +1,4 @@
-package KillUfoGame;
+package KillUfoGameOnConsol;
 
 import javax.swing.*;
 import java.awt.*;

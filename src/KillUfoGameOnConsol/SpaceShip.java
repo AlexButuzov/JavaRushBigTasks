@@ -1,4 +1,4 @@
-package KillUfoGame;
+package KillUfoGameOnConsol;
 
 /**
  * Класс для космического корабля

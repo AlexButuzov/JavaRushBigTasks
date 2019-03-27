@@ -1,4 +1,4 @@
-package KillUfoGame;
+package KillUfoGameOnConsol;
 
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
