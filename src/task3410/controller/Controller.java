@@ -1,13 +1,12 @@
 package task3410.controller;
 
-import   task3410.model.Direction;
-import   task3410.model.GameObjects;
-import   task3410.model.Model;
-import   task3410.view.View;
+import task3410.model.Direction;
+import task3410.model.GameObjects;
+import task3410.model.Model;
+import task3410.view.View;
 
 
-
-public class Controller implements   task3410.controller.EventListener {
+public class Controller implements task3410.controller.EventListener {
     private View view;
     private Model model;
 
