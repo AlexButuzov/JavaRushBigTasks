@@ -1,4 +1,4 @@
-package   SokobanGame.model;
+package SokobanGame.model;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -15,7 +15,6 @@ public class LevelLoader {
     public LevelLoader(Path levels) {
         this.levels = levels;
     }
-
 
 
     public GameObjects getLevel(int level) {
@@ -81,7 +80,7 @@ public class LevelLoader {
             if (bufferedReader.ready()) {
                 String currentLine = bufferedReader.readLine();
                 String levelToLoad = "Maze:" + level;
-                while (!currentLine.replaceAll(" ","").contains(levelToLoad)) currentLine = bufferedReader.readLine();
+                while (!currentLine.replaceAll(" ", "").contains(levelToLoad)) currentLine = bufferedReader.readLine();
                 for (int i = 0; i < 6; i++) {
                     currentLine = bufferedReader.readLine();
                 }

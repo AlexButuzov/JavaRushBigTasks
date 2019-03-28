@@ -17,12 +17,18 @@ public class Model {
     /*private LevelLoader levelLoader = new LevelLoader(
             new File(this.getClass().getPackage().getName()
                     + ".res.levels.txt").toPath());
-*/
-    private LevelLoader levelLoader = new LevelLoader(Paths.get(
-            (Model.class.getProtectionDomain().getCodeSource().getLocation().getPath().substring(1) +
-                    Model.class.getPackage().getName().replaceAll(".model", "") + ".res.")
-                    .replaceAll("[.]", "/").replace("4/JavaCollections", "4.JavaCollections")
-                    + "levels.txt"));
+*/  protected static String sourceAdress = (Model.class.getProtectionDomain().getCodeSource().getLocation().getPath().substring(1) +
+            Model.class.getPackage().getName().replaceAll(".model", "") + ".res.")
+            .replaceAll("[.]", "/").replace("target/classes", "src");
+            private int log= pint(sourceAdress);
+
+    private int pint(String fulAdress) {
+        System.out.println(" адрес файла -> " + fulAdress);
+        return 2;
+    }
+
+    private LevelLoader levelLoader = new LevelLoader(Paths.get
+            (sourceAdress +  "levels.txt"));
 
     public void setEventListener(EventListener eventListener) {
         this.eventListener = eventListener;

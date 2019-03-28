@@ -19,7 +19,6 @@ public class Controller implements SokobanGame.controller.EventListener {
 
         model.setEventListener(this);
         view.setEventListener(this);
-        move(Direction.DOWN);
     }
 
     public static void main(String[] args) {

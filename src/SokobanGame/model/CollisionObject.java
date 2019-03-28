@@ -2,9 +2,8 @@ package SokobanGame.model;
 
 
 public abstract class CollisionObject extends GameObject {
-    protected String imageAddress = (Box.class.getProtectionDomain().getCodeSource().getLocation().getPath().substring(1) +
-            Box.class.getPackage().getName().replaceAll(".model","") + ".res.images.")
-            .replaceAll("[.]", "/").replace("4/JavaCollections", "4.JavaCollections");
+    protected String imageAddress = (Model.sourceAdress +  ".images.")
+            .replaceAll("[.]", "/");
 
     public CollisionObject(int x, int y) {
         super(x, y);
