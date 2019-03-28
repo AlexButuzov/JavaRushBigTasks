@@ -1,7 +1,8 @@
-package   bankomatEmulator.command;
+package bankomatEmulator.command;
 
-import   bankomatEmulator.Operation;
-import   bankomatEmulator.exception.InterruptOperationException;
+
+import bankomatEmulator.Operation;
+import bankomatEmulator.exception.InterruptOperationException;
 
 import java.util.HashMap;
 import java.util.Map;

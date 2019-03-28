@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9695eac2-2040-4104-93a3-f28ab7cf2cdb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/javarush/task/Paterns/Singletone/SingletoneVisEnum/EnumDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/javarush/task/Paterns/Singletone/SingletoneVisEnum/SingletoneEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/CashMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/CashMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/ConsoleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/ConsoleHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/CurrencyManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/CurrencyManipulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/command/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/command/CommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/command/CommandExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/command/DepositCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/command/DepositCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/command/ExitCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/command/ExitCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/command/InfoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/command/InfoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/command/LoginCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/command/LoginCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/command/WithdrawCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/command/WithdrawCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/exception/InterruptOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/exception/InterruptOperationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankomatEmulator/exception/NotEnoughMoneyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankomatEmulator/exception/NotEnoughMoneyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LogPareserAndSimpleQueue/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LogPareserAndSimpleQueue/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bankomatEmulator/CashMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bankomatEmulator/CashMachine.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,82 +34,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SokobanGame/controller/Controller.java">
+      <file leaf-file-name="LoginCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/command/LoginCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="176">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Command.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/command/Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterruptOperationException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/exception/InterruptOperationException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NotEnoughMoneyException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/exception/NotEnoughMoneyException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsoleHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/ConsoleHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="90" column="26" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-                <element signature="e#914#915#0" expanded="true" />
+                <element signature="method#getValidTwoDigits#0;class#ConsoleHelper#0" />
+                <element signature="e#4368#4369#0" expanded="true" />
+                <element signature="e#4436#4437#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Model.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SokobanGame/model/Model.java">
+      <file leaf-file-name="CurrencyManipulator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/CurrencyManipulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="21" column="68" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="68" />
+            <state relative-caret-position="128">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aggregator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pareserSaijtovPoiskVacasijam/Aggregator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Solution.java">
+      <file leaf-file-name="CurrencyManipulatorFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/CurrencyManipulatorFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="условие_1" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Conditions/условие_1">
+      <file leaf-file-name="Operation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/Operation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="32" />
+            <state relative-caret-position="208">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="условие_8" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Conditions/условие_8">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Event.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Event.java">
+      <file leaf-file-name="CashMachine.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/CashMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="198">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/LogParser.java">
+      <file leaf-file-name="WithdrawCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/command/WithdrawCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="192">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -140,6 +170,18 @@
         <option value="$PROJECT_DIR$/src/SingletoneViaEnum/SingletoneEnum.java" />
         <option value="$PROJECT_DIR$/src/SingletoneViaEnum/EnumDemo.java" />
         <option value="$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Solution.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/command/CommandExecutor.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/command/DepositCommand.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/command/ExitCommand.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/command/InfoCommand.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/command/LoginCommand.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/command/WithdrawCommand.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/command/Command.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/exception/InterruptOperationException.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/exception/NotEnoughMoneyException.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/ConsoleHelper.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/CurrencyManipulator.java" />
+        <option value="$PROJECT_DIR$/src/bankomatEmulator/CashMachine.java" />
       </list>
     </option>
   </component>
@@ -182,6 +224,58 @@
               <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaRushBigTasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushBigTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bankomatEmulator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushBigTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bankomatEmulator" type="462c0819:PsiDirectoryNode" />
+              <item name="command" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushBigTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bankomatEmulator" type="462c0819:PsiDirectoryNode" />
+              <item name="Conditions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushBigTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bankomatEmulator" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushBigTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bankomatEmulator" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushBigTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="googleGuavaAndApacheCollections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushBigTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="KillUfoGameOnConsol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushBigTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="LogPareserAndSimpleQueue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -190,13 +284,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="LogPareserAndSimpleQueue" type="462c0819:PsiDirectoryNode" />
               <item name="Conditions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushBigTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LogPareserAndSimpleQueue" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -261,6 +348,27 @@
               <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushBigTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -314,36 +422,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Aggregator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pareserSaijtovPoiskVacasijam.Aggregator" />
+  <component name="RunManager" selected="Application.CashMachine">
+    <configuration name="CashMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bankomatEmulator.CashMachine" />
       <module name="JavaRushBigTasks" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pareserSaijtovPoiskVacasijam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SokobanGame.controller.Controller" />
-      <module name="JavaRushBigTasks" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SokobanGame.controller.*" />
+          <option name="PATTERN" value="bankomatEmulator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task2028.Solution" />
+      <option name="MAIN_CLASS_NAME" value="AbstractFactory.Solution" />
       <module name="JavaRushBigTasks" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task2028.*" />
+          <option name="PATTERN" value="AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="googleGuavaAndApacheCollections.Solution" />
+      <module name="JavaRushBigTasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleGuavaAndApacheCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -412,19 +520,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Controller" />
       <item itemvalue="Application.Space" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.CashMachine" />
       <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Aggregator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Aggregator" />
-        <item itemvalue="Application.Controller" />
+        <item itemvalue="Application.CashMachine" />
         <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Space" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -443,6 +551,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="19" width="1246" height="669" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -450,9 +559,9 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.500813" side_tool="true" weight="0.32972974" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499187" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Terminal" />
@@ -477,137 +586,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/javarush/task/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SokobanGame/model/Box.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TetrisOnConsole/Field.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TetrisOnConsole/Figure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TetrisOnConsole/KeyboardObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TetrisOnConsole/Tetris.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pareserSaijtovPoiskVacasijam/Conditions/условеи13">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/ConsoleHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/CashMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/CurrencyManipulatorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/googleGuavaAndApacheCollections/strategy/HashBiMapStorageStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-188">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/googleGuavaAndApacheCollections/tests/FunctionalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/googleGuavaAndApacheCollections/strategy/FileBucket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/googleGuavaAndApacheCollections/Условие.jrtc">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/googleGuavaAndApacheCollections/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/googleGuavaAndApacheCollections/strategy/DualHashBidiMapStorageStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaRushBigTasks.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SokobanGame/controller/EventListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TetrisOnConsole/Условие.jrtc">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/KillUfoGameOnConsol/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KillUfoGameOnConsol/Space.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KillUfoGameOnConsol/Ufo.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -773,23 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pareserSaijtovPoiskVacasijam/Aggregator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Conditions/условие_1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Conditions/условие_8">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -807,10 +770,184 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pareserSaijtovPoiskVacasijam/Aggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Conditions/условие_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Conditions/условие_4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/Условие.jrtc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/googleGuavaAndApacheCollections/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KillUfoGameOnConsol/Space.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/Conditions/условие2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/command/CommandExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/command/DepositCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/command/ExitCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/command/InfoCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/command/LoginCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/command/WithdrawCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/exception/InterruptOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/exception/NotEnoughMoneyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/ConsoleHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="90" column="26" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
+          <folding>
+            <element signature="method#getValidTwoDigits#0;class#ConsoleHelper#0" />
+            <element signature="e#4368#4369#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/CurrencyManipulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/CurrencyManipulatorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bankomatEmulator/CashMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

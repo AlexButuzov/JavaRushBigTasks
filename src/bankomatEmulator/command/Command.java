@@ -1,6 +1,6 @@
-package   bankomatEmulator.command;
+package bankomatEmulator.command;
 
-import   bankomatEmulator.exception.InterruptOperationException;
+import bankomatEmulator.exception.InterruptOperationException;
 
 interface Command {
     void execute() throws InterruptOperationException;

@@ -1,9 +1,9 @@
-package   bankomatEmulator.command;
+package bankomatEmulator.command;
 
-import   bankomatEmulator.CashMachine;
-import   bankomatEmulator.ConsoleHelper;
-import   bankomatEmulator.CurrencyManipulator;
-import   bankomatEmulator.CurrencyManipulatorFactory;
+import bankomatEmulator.CashMachine;
+import bankomatEmulator.ConsoleHelper;
+import bankomatEmulator.CurrencyManipulator;
+import bankomatEmulator.CurrencyManipulatorFactory;
 
 import java.util.Collection;
 import java.util.Locale;
@@ -15,7 +15,8 @@ class InfoCommand implements Command {
 
     private ResourceBundle res = ResourceBundle.getBundle(
             CashMachine.RESOURCE_PATH + "info"
-            ,currentLocale);
+            , currentLocale);
+
     @Override
     public void execute() {
         Collection<CurrencyManipulator> manipulators = CurrencyManipulatorFactory.getAllCurrencyManipulators();

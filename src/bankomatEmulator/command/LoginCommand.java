@@ -1,8 +1,8 @@
-package   bankomatEmulator.command;
+package bankomatEmulator.command;
 
-import   bankomatEmulator.CashMachine;
-import   bankomatEmulator.ConsoleHelper;
-import   bankomatEmulator.exception.InterruptOperationException;
+import bankomatEmulator.CashMachine;
+import bankomatEmulator.ConsoleHelper;
+import bankomatEmulator.exception.InterruptOperationException;
 
 import java.util.Locale;
 import java.util.ResourceBundle;

@@ -1,6 +1,6 @@
 package bankomatEmulator;
 
-import   bankomatEmulator.exception.InterruptOperationException;
+import bankomatEmulator.exception.InterruptOperationException;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -17,7 +17,7 @@ public class ConsoleHelper {
         System.out.println(message);
     }
 
-    public static String readString() throws  InterruptOperationException {
+    public static String readString() throws InterruptOperationException {
         String stringFromConsol = null;
         try {
             stringFromConsol = bis.readLine();
@@ -102,5 +102,7 @@ public class ConsoleHelper {
 
     }
 
-    public static void printExitMessage() { ConsoleHelper.writeMessage(res.getString("the.end"));}
+    public static void printExitMessage() {
+        ConsoleHelper.writeMessage(res.getString("the.end"));
+    }
 }

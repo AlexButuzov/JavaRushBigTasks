@@ -1,6 +1,6 @@
 package bankomatEmulator;
 
-import   bankomatEmulator.exception.NotEnoughMoneyException;
+import bankomatEmulator.exception.NotEnoughMoneyException;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicReference;
@@ -49,7 +49,7 @@ public class CurrencyManipulator {
      * Используйте Жадный алгоритм
      *
      * @param expectedAmount ожидаемая сумма для выдачи
-     * @return Map<Integer   ,       Integer> = HashMap<номинал, количество>
+     * @return Map<Integer       ,               Integer> = HashMap<номинал, количество>
      * @throws NotEnoughMoneyException - если в банкомате недостоточно купюр для выдачи заданной  суммы
      */
     public Map<Integer, Integer> withdrawAmount(int expectedAmount) throws NotEnoughMoneyException {

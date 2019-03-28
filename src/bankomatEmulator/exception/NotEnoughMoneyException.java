@@ -1,4 +1,4 @@
-package   bankomatEmulator.exception;
+package bankomatEmulator.exception;
 
 public class NotEnoughMoneyException extends Exception {
 }

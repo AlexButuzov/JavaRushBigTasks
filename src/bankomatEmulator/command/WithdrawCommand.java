@@ -1,11 +1,11 @@
-package   bankomatEmulator.command;
+package bankomatEmulator.command;
 
-import   bankomatEmulator.CashMachine;
-import   bankomatEmulator.ConsoleHelper;
-import   bankomatEmulator.CurrencyManipulator;
-import   bankomatEmulator.CurrencyManipulatorFactory;
-import   bankomatEmulator.exception.InterruptOperationException;
-import   bankomatEmulator.exception.NotEnoughMoneyException;
+import bankomatEmulator.CashMachine;
+import bankomatEmulator.ConsoleHelper;
+import bankomatEmulator.CurrencyManipulator;
+import bankomatEmulator.CurrencyManipulatorFactory;
+import bankomatEmulator.exception.InterruptOperationException;
+import bankomatEmulator.exception.NotEnoughMoneyException;
 
 
 import java.util.Locale;
@@ -45,7 +45,7 @@ class WithdrawCommand implements Command {
 
                     }
                 } else ConsoleHelper.writeMessage(res.getString("not.enough.money"));
-            }  else ConsoleHelper.writeMessage(res.getString("specify.not.empty.amount"));
+            } else ConsoleHelper.writeMessage(res.getString("specify.not.empty.amount"));
 
 
         }
