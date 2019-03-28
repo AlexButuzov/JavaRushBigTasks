@@ -1,6 +1,0 @@
-projectKey=com.javarush.task:JavaRushBigTasks
-serverUrl=http://127.0.0.1:9000
-serverVersion=7.1.0.11001
-dashboardUrl=http://127.0.0.1:9000/dashboard/index/com.javarush.task:JavaRushBigTasks
-ceTaskId=AWXCIeNLedm5EXzrZliP
-ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AWXCIeNLedm5EXzrZliP

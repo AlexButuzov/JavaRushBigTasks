@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="com.bluecatcode.guava:guava-19.0-extended:1.1.0" type="repository">
+    <properties maven-id="com.bluecatcode.guava:guava-19.0-extended:1.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/guava-19.0-extended-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr305-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/guava-19.0-extended-1.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-19.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr305-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
