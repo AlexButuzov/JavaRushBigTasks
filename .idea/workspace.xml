@@ -1,232 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9695eac2-2040-4104-93a3-f28ab7cf2cdb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_elastisys_scale_cloudpool_google_commons_5_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/net_databinder_dispatch_dispatch_jsoup_2_8_1_0_9_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_commons_collections4_4_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushBigTasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushBigTasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/activation-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/aopalliance-repackaged-2.5.0-b32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/args4j-2.33.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/async-http-client-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bcpkix-jdk15on-1.53.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bcprov-jdk15on-1.53.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/cloudpool.api-5.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/cloudpool.commons-5.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/cloudpool.google.commons-5.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons-codec-1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons-collections-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons-collections-3.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons-collections4-4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons-email-1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons.cli-2.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons.json-2.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons.net-2.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons.rest-2.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons.security-2.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons.server-2.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons.util-2.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/dispatch-core_2.8.1-0.9.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/dispatch-jsoup_2.8.1-0.9.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/google-api-client-1.22.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/google-api-services-compute-v1-rev131-1.22.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/google-api-services-container-v1-rev10-1.22.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/google-http-client-1.22.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/google-http-client-jackson2-1.22.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/google-oauth-client-1.22.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gson-2.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/guava-20.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hk2-api-2.5.0-b32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hk2-locator-2.5.0-b32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hk2-utils-2.5.0-b32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/httpclient-4.5.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/httpcore-4.4.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jackson-core-2.1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javassist-3.20.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.annotation-api-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.inject-2.5.0-b32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.mail-1.5.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.ws.rs-api-2.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jersey-client-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jersey-common-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jersey-container-servlet-core-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jersey-guava-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jersey-media-jaxb-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jersey-server-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jetty-client-9.4.0.v20161208.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jetty-continuation-9.4.0.v20161208.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jetty-http-9.4.0.v20161208.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jetty-io-9.4.0.v20161208.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jetty-rewrite-9.4.0.v20161208.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jetty-security-9.4.0.v20161208.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jetty-server-9.4.0.v20161208.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jetty-servlet-9.4.0.v20161208.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jetty-servlets-9.4.0.v20161208.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jetty-util-9.4.0.v20161208.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/joda-time-2.9.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jose4j-0.4.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jsoup-1.6.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jsr305-1.3.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/netty-3.4.4.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/org.apache.commons.collections-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/osgi-resource-locator-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/scala-library-2.8.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/slf4j-api-1.6.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/slf4j-api-1.7.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2028/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2213/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2515/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2613/resources/common_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2613/resources/deposit_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2613/resources/exit_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2613/resources/info_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2613/resources/login_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2613/resources/verifiedCards.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2613/resources/withdraw_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2613/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2810/HHTestPage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2810/MoikrugTestPage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2810/view/backup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2810/view/vacancies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task2810/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3310/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/res/images/BoxAlone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/res/images/BoxOnHome.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/res/images/Player.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/res/images/Wall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/res/levels.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Condition10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Condition11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Condition12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Condition13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Condition14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Condition15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Condition6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Condition7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Condition8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Condition9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/edf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/task4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/temp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Сondition5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Условие2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3410/Условие/Условие3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3702/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/Conditions/условие_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/Conditions/условие_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/Conditions/условие_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/Conditions/условие_4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/Conditions/условие_5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/Conditions/условие_6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/Conditions/условие_7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/Conditions/условие_8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/logs/example - копия.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/logs/example.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/logs/example2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRushBigTasks/task3913/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaRushBigTasks-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2028/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2213/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2515/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Conditions/условие9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/resources/common_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/resources/deposit_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/resources/exit_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/resources/info_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/resources/login_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/resources/verifiedCards.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/resources/withdraw_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2613/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условеи13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Conditions/условие9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/HHTestPage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/MoikrugTestPage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/view/backup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/view/vacancies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2810/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3310/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/res/images/BoxAlone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/res/images/BoxOnHome.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/res/images/Player.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/res/images/Wall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/res/levels.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Condition10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Condition11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Condition12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Condition13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Condition14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Condition15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Condition6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Condition7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Condition8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Condition9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/edf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/task4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/temp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Сondition5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Условие2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3410/Условие/Условие3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3702/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/Conditions/условие_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/Conditions/условие_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/Conditions/условие_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/Conditions/условие_4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/Conditions/условие_5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/Conditions/условие_6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/Conditions/условие_7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/Conditions/условие_8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/logs/example - копия.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/logs/example.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/logs/example2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task3913/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sonar/.sonar_lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sonar/report-task.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/javarush/task/AppTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="9695eac2-2040-4104-93a3-f28ab7cf2cdb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -257,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
+            <state relative-caret-position="544">
               <caret line="34" column="36" selection-start-line="34" selection-start-column="29" selection-end-line="36" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogParser.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/LogParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -298,15 +82,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Space.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KillUfoGameOnConsol/Space.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -562,13 +337,13 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" weight="0.32972974" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -804,8 +579,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="544">
           <caret line="34" column="36" selection-start-line="34" selection-start-column="29" selection-end-line="36" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LogPareserAndSimpleQueue/LogParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
