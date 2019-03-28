@@ -1,4 +1,4 @@
-package com.javarush.task.Paterns.Singletone.SingletoneVisEnum;
+package SingletoneViaEnum;
 
 public enum SingletoneEnum {
     INSTANCE;

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9695eac2-2040-4104-93a3-f28ab7cf2cdb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SokobanGame/model/CollisionObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SokobanGame/model/CollisionObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SokobanGame/model/LevelLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SokobanGame/model/LevelLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SokobanGame/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SokobanGame/model/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SokobanGame/model/CollisionObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SokobanGame/model/CollisionObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SokobanGame/model/LevelLoader$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SokobanGame/model/LevelLoader$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SokobanGame/model/LevelLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SokobanGame/model/LevelLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SokobanGame/model/Model$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SokobanGame/model/Model$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SokobanGame/model/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SokobanGame/model/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingletoneViaEnum/EnumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingletoneViaEnum/EnumDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SokobanGame/controller/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="224">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#480#481#0" expanded="true" />
@@ -41,6 +33,36 @@
                 <element signature="e#742#743#0" expanded="true" />
                 <element signature="e#869#870#0" expanded="true" />
                 <element signature="e#914#915#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnumDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SingletoneViaEnum/EnumDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletoneEnum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SingletoneViaEnum/SingletoneEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/task2028/CustomTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,15 +92,6 @@
                 <element signature="e#1374#1375#0" expanded="true" />
                 <element signature="e#1416#1417#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Direction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SokobanGame/model/Direction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -122,18 +135,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SokobanGame/model/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -169,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/SokobanGame/model/Model.java" />
         <option value="$PROJECT_DIR$/src/SokobanGame/model/CollisionObject.java" />
         <option value="$PROJECT_DIR$/src/SokobanGame/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/SingletoneViaEnum/EnumDemo.java" />
       </list>
     </option>
   </component>
@@ -422,13 +424,13 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24471545" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24471545" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -609,13 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task2028/CustomTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/task2028/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
@@ -742,8 +737,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SokobanGame/controller/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="224">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#480#481#0" expanded="true" />
@@ -752,6 +747,30 @@
             <element signature="e#742#743#0" expanded="true" />
             <element signature="e#869#870#0" expanded="true" />
             <element signature="e#914#915#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SingletoneViaEnum/EnumDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SingletoneViaEnum/SingletoneEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2028/CustomTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

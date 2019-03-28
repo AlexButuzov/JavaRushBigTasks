@@ -1,4 +1,5 @@
-package com.javarush.task.Paterns.Singletone.SingletoneVisEnum;
+package SingletoneViaEnum;
+
 
 public class EnumDemo {
     public static void main(String[] args) {
